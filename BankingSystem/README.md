@@ -49,7 +49,7 @@ BankingSystem/
 ![Dashboard](screenshots/dashboard.png)
 
 ### PDF Confirmation
-![PDF](screenshots/pdf_confirmation.png)
+![PDF](screenshots/pdfgeneration.png)
 
 ---
 
